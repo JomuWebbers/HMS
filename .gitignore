@@ -2,3 +2,8 @@
 /jomumart-wireframe.zip
 /jumia-wireframe
 /jumia-wireframe.zip
+/Osun-BizWireframes
+
+.env
+.env.*
+!.env.example
